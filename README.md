@@ -17,10 +17,13 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 
 •	Cuando una corriente es alterna o continua.
 
-•	Comprender su uso y su importancia	
+•	Comprender su uso y su importancia
 
-![](https://github.com/LeslieTitoana1/io/blob/master/WhatsApp%20Image%202021-06-01%20at%2015.02.16.jpe)
-![](https://web.whatsapp.com/)
+**2. MARCO TEORICO**
+
+
+![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33.jpeg)
+
 
 
 
