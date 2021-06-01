@@ -19,11 +19,28 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 
 •	Comprender su uso y su importancia
 
-**2. MARCO TEORICO**
+**1.MARCO TEORICO**
+
+
+*  CAPITULO 1
 
 ![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33.jpeg)
 
 ![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33%20(1).jpeg)
+
+![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33%20(2).jpeg)
+
+![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33%20(3).jpeg)
+
+![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33%20(4).jpeg)
+
+![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33%20(5).jpeg)
+
+![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33%20(6).jpeg)
+
+* CAPITULO 2
+
+
 
 
 
