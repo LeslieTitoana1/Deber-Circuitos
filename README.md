@@ -21,8 +21,9 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 
 **2. MARCO TEORICO**
 
-
 ![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33.jpeg)
+
+![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.15.33%20(1).jpeg)
 
 
 
