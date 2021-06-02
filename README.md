@@ -82,6 +82,9 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 
 ![](![image](https://user-images.githubusercontent.com/84430867/120418672-928fc000-c326-11eb-9360-26f4d0054d9f.png)
 
+1.	Realice las siguientes conversiones:
 
+a.	27 minutos a segundos
 
+![image](https://user-images.githubusercontent.com/84430867/120418976-1f3a7e00-c327-11eb-8493-cbecefd33957.png)
 
