@@ -622,5 +622,102 @@ Con q=54  y t=5 s
 
 ![image](https://user-images.githubusercontent.com/84587293/120529666-5601aa00-c3a2-11eb-99a4-03ddeb33ac59.png)
 
+31.       La carga que pasa a través de un alambre es q=(80t+20)[C], ¿Cuál es la corriente? Sugerencia: seleccione dos valores arbitrarios de tiempo y proceda como en la pregunta 30.
 
+![image](https://user-images.githubusercontent.com/84587293/120530113-c4df0300-c3a2-11eb-9c12-b50e408448ff.png)
 
+32.       ¿Cuánto tiempo le toma a 312x〖10〗^19electrones pasar a través del circuitos de la figura 2-32 si la lectura del amperímetro es de 8 A?
+
+![image](https://user-images.githubusercontent.com/84587293/120530177-d88a6980-c3a2-11eb-9ac4-e769a8b28612.png)
+
+33.        Si se requieren 1 353.6 J para mover 47x〖10〗^19electrones a través de la lámpara de la figura 2-32en 1.3 mí, ¿cuánto vale E en I?
+
+![image](https://user-images.githubusercontent.com/84587293/120530630-60707380-c3a3-11eb-9c41-91add4d522ce.png)
+
+34.       ¿Qué se entiende por cd? , ¿ y por ca? 
+
+La electricidad fluye de dos maneras: ya sea en una Corriente Directa (CD) también conocida como Corriente Continua (CC) o en Corriente Alterna (CA). La electricidad es el movimiento de electrones a través de un conductor, este espacio puede ser un cable, por ejemplo. La diferencia entre ambos tipos se centra en la dirección en la que fluyen los electrones. Cuando hablamos de la CD, los electrones fluyen de manera constante en una sola dirección o, dicho de otra forma, siempre fluyen hacia adelante. En cambio, cuando hablamos de la CA, los electrones cambian constantemente de adelante hacia atrás, es decir oscilan en ambas direcciones en un periodo de tiempo determinado.
+
+35.      Considere tres baterías conectadas como en la figura 2-33.
+
+a. Si E_1=1.47V,E_2=1.61V y E_3=1.58 V, ¿cuánto vale E_t?
+
+b. Si se invierte la conexiona a la fuente 3, ¿cuánto vale E_t?
+
+![image](https://user-images.githubusercontent.com/84587293/120531233-08863c80-c3a4-11eb-976d-8eb45a5deaac.png)
+
+36.      ¿Cómo se carga una batería secundaria? Haga un bosquejo. ¿Se puede cargar una batería primaria?
+
+La batería secundaria o auxiliar se carga automáticamente al encender el motor, al igual que la batería de primaria o de arranque, con el alternador del vehículo. Para aumentar la vida de la batería, lo suyo es una carga y descarga lenta, y en la medida de lo posible igual. Pero esto no siempre es posible.
+
+![image](https://user-images.githubusercontent.com/84587293/120531861-b2fe5f80-c3a4-11eb-8228-b87d7a18bbec.png)
+
+¿Se puede cargar una batería primaria?
+
+Batería primaria: su reacción electroquímica es irreversible, es decir, después de que la batería se ha descargado no puede volver a cargarse. Que la batería se ha descargado puede ser cargada inyectándole corriente continua desde una fuente externa.
+
+37.      Una batería especificada en 1 400 mAh suministra 28 mA a una carga ¿Cuánto tiempo se espera que dure? 
+
+![image](https://user-images.githubusercontent.com/84587293/120532020-dde8b380-c3a4-11eb-939c-e3d7cf3071cc.png)
+
+38.      ¿Cuál es la vida de servicio aproximada de la celda D de la tabla 2-1 con un consumo de corriente de 10 mA, de 50 mA y de 100 mA? ¿Qué concluye de estos resultados?
+
+![image](https://user-images.githubusercontent.com/84587293/120532100-f35ddd80-c3a4-11eb-86a1-298665b4674d.png)
+
+El tiempo de vida es de 525 ,125  y 57 
+
+39.       La batería de la ﬁgura 2-15 está especiﬁcada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a -15°C?
+
+![image](https://user-images.githubusercontent.com/84587293/120532198-0d97bb80-c3a5-11eb-9c6f-393115989a03.png)
+
+40.       Se espera que la batería de la ﬁgura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?
+
+![image](https://user-images.githubusercontent.com/84587293/120532414-45066800-c3a5-11eb-8f3c-42e9d88ff41c.png)
+
+41.      En el trabajo de ingeniería en ocasiones se tienen que hacer estimaciones basadas en la información que se tiene disponible. En este tenor, suponga que tiene un dispositivo operado con batería que usa la celda C de la tabla 2-1. Si el dispositivo requiere 10 mA,¿cuál es el tiempo estimado (en horas) que será capaz de usar?
+
+![image](https://user-images.githubusercontent.com/84587293/120532529-5bacbf00-c3a5-11eb-902e-4434ff62050b.png)
+
+42.      El voltímetro digital de la ﬁgura 2-34 tiene la característica de auto polaridad. Para cada caso, determiné su lectura.
+
+![image](https://user-images.githubusercontent.com/84587293/120532598-6f582580-c3a5-11eb-86f4-0721d697b8f3.png)
+
+43.      La corriente en el circuito de la ﬁgura 2-35 es 9.17 mA. ¿Cuál amperímetro indica correctamente la corriente? (a) El medidor 1,(b) el medidor 2,(c) ambos.
+
+![image](https://user-images.githubusercontent.com/84587293/120532647-81d25f00-c3a5-11eb-926f-987046392633.png)
+
+44.      ¿Cuál es el error en la aﬁrmación de que el voltaje a través de la lámpara de la ﬁgura 2-24 es 70.3 V?
+
+![image](https://user-images.githubusercontent.com/84587293/120532812-b47c5780-c3a5-11eb-921d-db071cac7a43.png)
+
+No hay ningún error.
+
+45.       ¿Cuál es el error con el esquema de medición que se muestra en la ﬁgura2-36? Corríjalo.
+
+![image](https://user-images.githubusercontent.com/84587293/120532888-c958eb00-c3a5-11eb-9f07-215dc82f2bc2.png)
+
+El voltímetro y el amperímetro se intercambian 
+
+46.       Se desea controlar la luz de una lámpara mediante dos interruptores, cómo se indica en la tabla 2-2. Dibuje el circuito requerido.
+
+![image](https://user-images.githubusercontent.com/84587293/120533010-e7bee680-c3a5-11eb-87d1-ae26f12ccdc6.png)
+
+El interruptor  es de un solo polo y un solo tiro (SPST, por sus siglas en inglés) como se muestra en la ﬁgura 2-27. Con el interruptor abierto, la trayectoria de la corriente se abre y el foco está apagado; cuando se cierra la lámpara se enciende. 
+
+47.        Los fusibles tienen una especiﬁcación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especiﬁcación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1.
+
+Si se excede la especificación de voltaje del fusible se puede producir un arco cuando se funde.
+
+Conclusiones
+
+En este informe  hemos tratado de analizar los conceptos de lo que significa circuito eléctrico, sobre cómo funciona este y cada una de sus partes logrando así comprender  que un Circuito Eléctrico es un conjunto de elementos conectados entre sí por los que puede circular una corriente eléctrica.
+
+Logramos entender y aprender la importancia y el cuidado de este e identificar cada una de sus partes y como se produce un circuito.
+
+Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos más importantes del circuito eléctrico como:
+
+•Identificar para que sirve cada parte y cada elemento de un circuito eléctrico
+
+•Cuando una corriente es alterna o continua.
+
+•Comprender su uso y su importancia.	
