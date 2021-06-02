@@ -163,9 +163,8 @@ d.	El volumen de una esfera de 10 pulgadas de radio en m3
 
 ![image](https://user-images.githubusercontent.com/84430867/120421562-257f2900-c32c-11eb-96c1-dc677b95db02.png)
 
-12.      Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0.12m/s?
 
-13.      Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tirmpo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0.12m/s?
+12.      Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0.12m/s?
 
 ![image](https://user-images.githubusercontent.com/84430867/120421931-d980b400-c32c-11eb-8979-b72ea784a4ab.png)
      
