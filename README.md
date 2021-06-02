@@ -287,4 +287,143 @@ b.	Realice la operación directamente en la calculadora sin conversión. ¿Cuál
 
 	b) 0.15mV a microvolts
 
-![image](https://user-images.githubusercontent.com/84430867/120424476-0f746700-c332-11eb-8312-61605b18fa46.png)
+        ![image](https://user-images.githubusercontent.com/84430867/120424476-0f746700-c332-11eb-8312-61605b18fa46.png)
+	
+	c) 47kW a watts
+	
+	![image](https://user-images.githubusercontent.com/84430867/120424672-7db92980-c332-11eb-97b8-2971d9a04db3.png)
+
+	d) 0.057MW a kilowatts
+	
+	![image](https://user-images.githubusercontent.com/84430867/120424709-8b6eaf00-c332-11eb-8cd9-f4f07202a4b4.png)
+
+	e) 3.5 x 104 volts a kilovolts
+	
+	![image](https://user-images.githubusercontent.com/84430867/120424749-9b868e80-c332-11eb-9dd4-b39ec342c399.png)
+
+	f) 0.000 035 7 amperes a microamperes
+	
+	![image](https://user-images.githubusercontent.com/84430867/120424787-a80ae700-c332-11eb-96c5-b3fe89e95375.png)
+
+41.      Determine los valores que se deben insertar en el espacio en blanco
+
+         a)  150kV = 150 x 103 V = 0.15 x 106V
+
+         ![image](https://user-images.githubusercontent.com/84430867/120424889-db4d7600-c332-11eb-8f27-8ace9269a09f.png)
+
+          b)  330µW = 0.33 x10-3 W = 33 x 10-5 W 
+	  
+	  ![image](https://user-images.githubusercontent.com/84430867/120425345-9d9d1d00-c333-11eb-92a7-7c10de0efb2c.png)
+
+42.       Realice las operaciones y exprese las respuestas en las unidades que se indican
+	  
+	  a) 700 µA – 0.4mA =  300 µA  = 0.3 mA 
+                        
+	  ![image](https://user-images.githubusercontent.com/84430867/120425584-1a2ffb80-c334-11eb-949f-713e5f6469af.png)
+
+ 	  b) 600 MW + 300 x 104 W = 603 MW
+	  
+	  ![image](https://user-images.githubusercontent.com/84430867/120425666-3d5aab00-c334-11eb-927b-ed80f37aba98.png)
+
+43.        Realice las operaciones y exprese las respuestas en las unidades que se indican
+	   
+	   a)  330V + 0.15 kV + 0.2 x 103 V = 680 V
+	   
+	   ![image](https://user-images.githubusercontent.com/84430867/120425759-65e2a500-c334-11eb-93f5-a8bd80e8c35c.png)
+
+            b) 60 W + 100 W +2700 mW = 162.7 W
+	    
+	    ![image](https://user-images.githubusercontent.com/84430867/120425813-814db000-c334-11eb-9ad5-3a9bc6ae49bb.png)
+
+44.- El voltaje de una línea de transmisión de alto voltaje es de 1.15 x 105 V. ¿Cuál es el voltaje en kV?
+
+![image](https://user-images.githubusercontent.com/84430867/120425999-da1d4880-c334-11eb-8a59-9bff5495b1b5.png)
+
+Respuesta: El voltaje de la transmisión es 115kV
+                   
+45.- Se compra un radiador eléctrico de 1500 W para calentar una habitación ¿Cuántos kW es esta cantidad?
+Respuesta: El radiador eléctrico tiene una potencia de 1,5 kW
+
+![image](https://user-images.githubusercontent.com/84430867/120426821-68de9500-c336-11eb-856f-c6ede100a135.png)
+
+46.- Considere la figura 1-11. Como aprenderá en el capítulo 6. I_4=I_1+I_2+I_3. Si 
+I1 =1.25 mA, I2 = 350 µA e I3 = 250 x 10-5  A, ¿Cuánto vale I4?
+
+![image](https://user-images.githubusercontent.com/84430867/120426762-54020180-c336-11eb-8059-bc2e544c0521.png)
+
+Respuesta: I4 tiene un valor de 4.1 x 10-3 A
+47.- Para La figura 1-12 I1 + I2 – I3 + I4 = 0. Si I1 = 12 A, I2 = 0.150 kA e I4 = 250 x 10-1 A. ¿Cuánto vale I3?
+Respuesta: I3 tiene un valor de 187 A
+
+![image](https://user-images.githubusercontent.com/84430867/120426691-32087f00-c336-11eb-8609-febeb95e48b4.png)
+
+48.- En cierto circuito electrónico V1 = V2 – V3 – V4. Si V1 = 120mV, V2 = 5000μV y 
+V3 = 20 x 10-4 V. ¿Cuánto vale V4?
+
+![image](https://user-images.githubusercontent.com/84430867/120426660-21f09f80-c336-11eb-95c3-7280c68d2cdd.png)
+
+Respuesta: V4 tiene un valor de -0.117 V
+
+49.-  Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmdf. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿Cuál será el valor equivalente a pF de 39 “micromicrofarads”?
+
+![image](https://user-images.githubusercontent.com/84430867/120426604-07b6c180-c336-11eb-8807-70b9453c519e.png)
+
+50.-
+	a) Si 0.045 coulomb de carga (pregunta 29) pasan a través de un alambre en 15 ms. ¿a cuántos electrones equivale esto?
+	
+	![image](https://user-images.githubusercontent.com/84430867/120426570-f4a3f180-c335-11eb-93d8-a6b4e9f0c199.png)
+
+	b) Con una rapidez de 9.36 x 10-19 electrones por segundo. ¿Cuántos coulombs pasan por un punto de un alambre en 20 μs?
+	
+	![image](https://user-images.githubusercontent.com/84430867/120426508-db9b4080-c335-11eb-9bc9-9b9c9b308332.png)
+
+51.- Una señal de radio viaja a 299 792,458 km/s y una señal telefónica a 150 m/us. Si ambas se originan en el mismo punto, ¿Cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
+	
+	![image](https://user-images.githubusercontent.com/84430867/120426465-c32b2600-c335-11eb-8d0e-0d8ae910b786.png)
+
+	Señal de radio
+	
+	![image](https://user-images.githubusercontent.com/84430867/120426428-b1498300-c335-11eb-93e0-05cb3242b1d7.png)
+
+	Señal telefónica
+	
+	![image](https://user-images.githubusercontent.com/84430867/120426400-a68eee00-c335-11eb-85a4-39ffc03b35cd.png)
+
+Respuesta: La señal de radio llega primero con un t = 16.66 ms.
+
+52.- En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P = V x I watts,
+	a) Si V = 50 V e I = 24 mA (ambos valores exactos). ¿Cuánto vale P en watts?
+	
+	![image](https://user-images.githubusercontent.com/84430867/120426359-8eb76a00-c335-11eb-9d1f-e09b639679d8.png)
+
+	b) Si el voltaje se mide con un voltímetro como V = 50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I = 24.0 ± 0.1 mA. ¿Qué concluye acerca de P con base en los valores medidos?
+
+        P=1.2 ±0.1 W 
+
+El valor que se obtiene mediante la medición y el resultado obtenido mediante cálculo tiene una incertidumbre de 0.1 por lo tanto podemos asumir que la  potencia varía entre 1.2 y 1.18 W
+
+![image](https://user-images.githubusercontent.com/84430867/120426283-692a6080-c335-11eb-8b46-cf00bb374832.png)
+
+53.- En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R = V ÷ I ohms.
+	a) Si V = 50 V e I = 24 mA (ambos valores exactos) ¿Cuánto vale R?
+	b) Si el voltaje se mide con un voltímetro como V = 50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I = 24.0 ± 0.1 mA. ¿Qué concluye acerca de R con base en los valores medidos?
+	
+El valor que se obtiene mediante la medición y el resultado obtenido mediante cálculo tiene una incertidumbre de 0.1 por lo tanto el voltaje real de R se encuentra entre  2.08 kΩ y 2.11 kΩ (valor asumido dado por el aparato de medición)
+
+54.- El componente soldado en el circuito impreso de la figura 1-13(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espacio de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación.
+
+       a) ![image](https://user-images.githubusercontent.com/84430867/120426186-38e2c200-c335-11eb-94aa-bb1198a45713.png)
+
+       b) ![image](https://user-images.githubusercontent.com/84430867/120426195-3ed8a300-c335-11eb-8c7f-e9ea08834c93.png)
+
+55.- Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos  hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
+
+![image](https://user-images.githubusercontent.com/84430867/120426156-2bc5d300-c335-11eb-9e8c-96139cfca5b9.png)
+
+![image](https://user-images.githubusercontent.com/84430867/120427276-3c774880-c337-11eb-8f44-5114af0884a5.png)
+
+57- Elabore el diagrama esquemático para una simple linterna
+
+![image](https://user-images.githubusercontent.com/84430867/120427207-1f427a00-c337-11eb-97d6-309b92f47677.png)
+
+* Problemas Capitulo  2
