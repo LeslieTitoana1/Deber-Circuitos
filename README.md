@@ -707,6 +707,8 @@ El interruptor  es de un solo polo y un solo tiro (SPST, por sus siglas en ingl�
 
 47.        Los fusibles tienen una especiﬁcación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especiﬁcación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1.
 
+47. Los fusibles tienen una especiﬁcación de corriente de manera que se puede seleccionar el tamaño adecuado para proteger un circuito contra un exceso de corriente. También tienen una especiﬁcación de voltaje. ¿Por qué? Sugerencia: lea la sección de aislantes, sección 2-1.
+
 Si se excede la especificación de voltaje del fusible se puede producir un arco cuando se funde.
 
 **4. VIDEO**
