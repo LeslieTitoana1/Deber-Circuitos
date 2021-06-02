@@ -56,31 +56,6 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 
 * Problemas Capitulo  1
 
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12.jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(1).jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(2).jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(3).jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(13).jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(12).jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2018.33.35.jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(7).jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(8).jpeg)}
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(9).jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(10).jpeg)
-
-![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(11).jpeg)
-
-![](![image](https://user-images.githubusercontent.com/84430867/120418672-928fc000-c326-11eb-9360-26f4d0054d9f.png)
 
 1.	Realice las siguientes conversiones:
 
@@ -134,7 +109,7 @@ f.	124 pulgadas cuadradas a m2
 
 ![image](https://user-images.githubusercontent.com/84430867/120420095-44c88700-c329-11eb-8f8e-68f092dc1fbd.png)
 
-g	47 libras fuerza a newtons
+g.	47 libras fuerza a newtons
 
 ![image](https://user-images.githubusercontent.com/84430867/120420203-85280500-c329-11eb-83a4-3ff10bfb7851.png)
 
@@ -292,3 +267,24 @@ b.	Realice la operación directamente en la calculadora sin conversión. ¿Cuál
 
 ![image](https://user-images.githubusercontent.com/84430867/120423474-1a2dfc80-c330-11eb-8402-f3ab3c98dc57.png)
 
+37.       ¿Cuál es el prefijo apropiado y su abreviatura para cada uno de los siguientes multiplicadores?
+
+![image](https://user-images.githubusercontent.com/84430867/120424051-3ed6a400-c331-11eb-83c8-de3fbb0bebc6.png)
+
+38.       Exprese lo siguiente en término de sus abreviaturas, es decir micro watts como μW. Ponga atención en las mayúsculas (esto es, V no v, para volts)
+
+![image](https://user-images.githubusercontent.com/84430867/120424332-bf95a000-c331-11eb-9049-28beae357f1a.png)
+
+39.        Exprese lo siguiente en la notación de ingeniería más práctica (esto es, 1270µs = 1.27ms)
+
+![image](https://user-images.githubusercontent.com/84430867/120424376-d3d99d00-c331-11eb-890b-497c72d804d9.png)
+
+40.       Convierta lo siguiente:
+
+	a) 156 mV en volts
+	
+	![image](https://user-images.githubusercontent.com/84430867/120424454-008db480-c332-11eb-980e-2d79b50c5cab.png)
+
+	b) 0.15mV a microvolts
+
+![image](https://user-images.githubusercontent.com/84430867/120424476-0f746700-c332-11eb-8312-61605b18fa46.png)
