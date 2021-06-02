@@ -616,5 +616,11 @@ b. ¿Cuánta carga ha pasado en t=8 s?
 
 ![image](https://user-images.githubusercontent.com/84587293/120529365-0ae79700-c3a2-11eb-8c15-ea629b0c495b.png)
 
+c. ¿Cuál es la corriente en amperes?
+
+Con q=54  y t=5 s
+
+![image](https://user-images.githubusercontent.com/84587293/120529666-5601aa00-c3a2-11eb-99a4-03ddeb33ac59.png)
+
 
 
