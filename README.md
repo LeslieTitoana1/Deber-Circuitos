@@ -364,7 +364,7 @@ V3 = 20 x 10-4 V. ¿Cuánto vale V4?
 
 Respuesta: V4 tiene un valor de -0.117 V
 
-49.    Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmdf. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿Cuál será el valor equivalente a pF de 39 “micromicrofarads”?
+49.       Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmdf. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿Cuál será el valor equivalente a pF de 39 “micromicrofarads”?
 
 ![image](https://user-images.githubusercontent.com/84430867/120426604-07b6c180-c336-11eb-8807-70b9453c519e.png)
 
@@ -421,6 +421,8 @@ El valor que se obtiene mediante la medición y el resultado obtenido mediante c
 55.- Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos  hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
 ![image](https://user-images.githubusercontent.com/84430867/120426156-2bc5d300-c335-11eb-9e8c-96139cfca5b9.png)
+
+56. Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
 ![image](https://user-images.githubusercontent.com/84430867/120427276-3c774880-c337-11eb-8f44-5114af0884a5.png)
 
