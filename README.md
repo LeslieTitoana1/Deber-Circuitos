@@ -576,23 +576,45 @@ Diferencia de potencial es igual a V=40  [V]
 
 22.      Si el voltaje entre dos puntos es de 100 V, ¿Cuántas energía se requiere para mover un electrón entre los dos puntos?
 
-![image](https://user-images.githubusercontent.com/84587293/120527517-08843d80-c3a0-11eb-8464-2bef14fdab33.png)
+![image](https://user-images.githubusercontent.com/84587293/120528447-18505180-c3a1-11eb-9ef6-c9519fd41477.png)
 
 23.      Dado un voltaje 12V para la batería de la figura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57J de energía para moverla?
 
-![image](https://user-images.githubusercontent.com/84587293/120527604-22258500-c3a0-11eb-8e88-3cc4114e5542.png)
+![image](https://user-images.githubusercontent.com/84587293/120528569-3a49d400-c3a1-11eb-8041-91aab31f4ab7.png)
 
 24.     Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿Cuál es la corriente en amperes? 
 
-![image](https://user-images.githubusercontent.com/84587293/120527736-4f723300-c3a0-11eb-8578-f15346172f59.png)
+![image](https://user-images.githubusercontent.com/84587293/120528852-8268f680-c3a1-11eb-91cf-df1b934fa717.png)
 
 25.     Si 250 µC pasan a través del amperímetro de la figura 2-32 en 5ms, ¿cuál será la lectura del medidor?
 
-![image](https://user-images.githubusercontent.com/84587293/120527857-73357900-c3a0-11eb-9f4f-efdae2d97ecd.png)
+![image](https://user-images.githubusercontent.com/84587293/120528911-914fa900-c3a1-11eb-8522-96da06b1bcca.png)
 
 26.     Si la corriente I=4 A en la figura 2-1, ¿cuántos coulombs pasan a través de la lámpara en 7 ms?
 
-![image](https://user-images.githubusercontent.com/84587293/120528201-c9a2b780-c3a0-11eb-8a2b-c775f6c10b38.png)
+![image](https://user-images.githubusercontent.com/84587293/120528960-9d3b6b00-c3a1-11eb-9987-d1737845fdcf.png)
+
+27.     ¿Cuánta carga pasa a través del circuito de la figura 2-25 en 20ms?
+
+![image](https://user-images.githubusercontent.com/84587293/120529052-b217fe80-c3a1-11eb-8e45-7ca7315b6120.png)
+
+28.      ¿Cuánto tiempo le toma a una carga de 100 µC pasar por un punto si la corriente es de 25  [mA]?
+
+![image](https://user-images.githubusercontent.com/84587293/120529169-cfe56380-c3a1-11eb-9d62-38051191d0f6.png)
+
+29.      Si 93.6x〖10〗^12electrones pasan a través de una lámpara en 5 ms, ¿cuál es la corriente?
+
+![image](https://user-images.githubusercontent.com/84587293/120529234-e390ca00-c3a1-11eb-8789-ae15a084db7e.png)
+
+30.       La carga que pasa a través de un alambre está dada por q=10t+4, donde q está en coulombs y t en segundos.
+
+a. ¿Cuánta carga ha pasado en t=5 s?
+
+![image](https://user-images.githubusercontent.com/84587293/120529313-f99e8a80-c3a1-11eb-9caa-50f99fd47656.png)
+
+b. ¿Cuánta carga ha pasado en t=8 s?
+
+![image](https://user-images.githubusercontent.com/84587293/120529365-0ae79700-c3a2-11eb-8c15-ea629b0c495b.png)
 
 
 
