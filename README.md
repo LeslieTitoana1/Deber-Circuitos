@@ -376,7 +376,7 @@ b) Con una rapidez de 9.36 x 10-19 electrones por segundo. ¿Cuántos coulombs p
 	
 ![image](https://user-images.githubusercontent.com/84430867/120426508-db9b4080-c335-11eb-9bc9-9b9c9b308332.png)
 
-51.- Una señal de radio viaja a 299 792,458 km/s y una señal telefónica a 150 m/us. Si ambas se originan en el mismo punto, ¿Cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
+51.      Una señal de radio viaja a 299 792,458 km/s y una señal telefónica a 150 m/us. Si ambas se originan en el mismo punto, ¿Cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
 	
 ![image](https://user-images.githubusercontent.com/84430867/120426465-c32b2600-c335-11eb-8d0e-0d8ae910b786.png)
 
@@ -390,7 +390,7 @@ Señal telefónica
 
 Respuesta: La señal de radio llega primero con un t = 16.66 ms.
 
-52.- En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P = V x I watts,
+52.      En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P = V x I watts,
 
 a) Si V = 50 V e I = 24 mA (ambos valores exactos). ¿Cuánto vale P en watts?
 	
@@ -404,7 +404,7 @@ El valor que se obtiene mediante la medición y el resultado obtenido mediante c
 
 ![image](https://user-images.githubusercontent.com/84430867/120426283-692a6080-c335-11eb-8b46-cf00bb374832.png)
 
-53.- En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R = V ÷ I ohms.
+53.      En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R = V ÷ I ohms.
 
 a) Si V = 50 V e I = 24 mA (ambos valores exactos) ¿Cuánto vale R?
 
@@ -412,27 +412,27 @@ b) Si el voltaje se mide con un voltímetro como V = 50.0 ± 0.1 volts y la corr
 	
 El valor que se obtiene mediante la medición y el resultado obtenido mediante cálculo tiene una incertidumbre de 0.1 por lo tanto el voltaje real de R se encuentra entre  2.08 kΩ y 2.11 kΩ (valor asumido dado por el aparato de medición)
 
-54.- El componente soldado en el circuito impreso de la figura 1-13(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espacio de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación.
+54.     El componente soldado en el circuito impreso de la figura 1-13(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espacio de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación.
 
  a) ![image](https://user-images.githubusercontent.com/84430867/120426186-38e2c200-c335-11eb-94aa-bb1198a45713.png)
 
  b) ![image](https://user-images.githubusercontent.com/84430867/120426195-3ed8a300-c335-11eb-8c7f-e9ea08834c93.png)
 
-55.- Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos  hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
+55.     Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos  hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
 ![image](https://user-images.githubusercontent.com/84430867/120426156-2bc5d300-c335-11eb-9e8c-96139cfca5b9.png)
 
-56. Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
+56.     Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
 ![image](https://user-images.githubusercontent.com/84430867/120427276-3c774880-c337-11eb-8f44-5114af0884a5.png)
 
-57- Elabore el diagrama esquemático para una simple linterna
+57.     Elabore el diagrama esquemático para una simple linterna
 
 ![image](https://user-images.githubusercontent.com/84430867/120427207-1f427a00-c337-11eb-97d6-309b92f47677.png)
 
 * Problemas Capitulo  2
 
-¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
+1.      ¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
 
 a) 1 metro cúbico de cobre 
 
@@ -444,7 +444,7 @@ b) Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
 
 a) se duplica la magnitud de ambas cargas
 
-Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿Cómo se ve afectada la fuerza entre sí?
+2.      Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿Cómo se ve afectada la fuerza entre sí?
 
 ![image](https://user-images.githubusercontent.com/84587293/120521898-a83ecd00-c39a-11eb-91c6-39ff6a84bb62.png)
 
@@ -462,7 +462,7 @@ La fuerza será 24 veces mayor a la original
 
 El mejor conductor será el elemento que tiene  1 electrón en su capa de valencia ya que tiene mayor número de electrones libres.
 
-5.     a) ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y lo electrones libre)
+5.      a) ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y lo electrones libre)
 
 Los materiales conductores con aquellos que permiten el paso de la corriente. Tienen gran número de electrones libres y se caracterizan por poseer de uno a tres electrones de valencia en su estructura. 
 
@@ -482,13 +482,16 @@ b) ¿Porque algunas veces se usa al aluminio cuando su conductividad es solo 60%
 
 El aluminio es usado ya que posee un menor peso respecto a cobre 
 
-7.      Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuando es de atracción y cuando de repulsión
+7.     Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuando es de atracción y cuando de repulsión
 
 a) Una carga de +1 μC y una carga de +7 μC, separadas 10mm
 
 ![image](https://user-images.githubusercontent.com/84587293/120524391-a249eb80-c39c-11eb-8975-63b642aef3a0.png)
 
 b) Q1 = 8 μC y Q2 = -4 μC, separados 12 cm
+
+![image](https://user-images.githubusercontent.com/84587293/120525278-94e13100-c39d-11eb-890f-3f4128efec65.png)
+
 
 
 
