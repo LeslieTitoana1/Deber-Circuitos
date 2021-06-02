@@ -259,7 +259,7 @@ b.	Realice la operación directamente en la calculadora sin conversión. ¿Cuál
 
 ![image](https://user-images.githubusercontent.com/84430867/120423393-eb178b00-c32f-11eb-843f-6d574340996f.png)
 
-35.       35.	Al investigar un sitio para un proyecto hidroeléctrico se determina que el flujo de agua es de 3.73 ×  104 m3 /s. ¿A cuánto equivale esta cantidad en litros/hora?
+35.       Al investigar un sitio para un proyecto hidroeléctrico se determina que el flujo de agua es de 3.73 ×  104 m3 /s. ¿A cuánto equivale esta cantidad en litros/hora?
 
 ![image](https://user-images.githubusercontent.com/84430867/120423642-68db9680-c330-11eb-8458-73b2d68ad5c2.png)
 
@@ -281,29 +281,29 @@ b.	Realice la operación directamente en la calculadora sin conversión. ¿Cuál
 
 40.       Convierta lo siguiente:
 
-	a) 156 mV en volts
+a) 156 mV en volts
 	
-	![image](https://user-images.githubusercontent.com/84430867/120424454-008db480-c332-11eb-980e-2d79b50c5cab.png)
+![image](https://user-images.githubusercontent.com/84430867/120424454-008db480-c332-11eb-980e-2d79b50c5cab.png)
 
-	b) 0.15mV a microvolts
+b) 0.15mV a microvolts
 
-        ![image](https://user-images.githubusercontent.com/84430867/120424476-0f746700-c332-11eb-8312-61605b18fa46.png)
+ ![image](https://user-images.githubusercontent.com/84430867/120424476-0f746700-c332-11eb-8312-61605b18fa46.png)
 	
-	c) 47kW a watts
+c) 47kW a watts
 	
-	![image](https://user-images.githubusercontent.com/84430867/120424672-7db92980-c332-11eb-97b8-2971d9a04db3.png)
+![image](https://user-images.githubusercontent.com/84430867/120424672-7db92980-c332-11eb-97b8-2971d9a04db3.png)
 
-	d) 0.057MW a kilowatts
+d) 0.057MW a kilowatts
 	
-	![image](https://user-images.githubusercontent.com/84430867/120424709-8b6eaf00-c332-11eb-8cd9-f4f07202a4b4.png)
+![image](https://user-images.githubusercontent.com/84430867/120424709-8b6eaf00-c332-11eb-8cd9-f4f07202a4b4.png)
 
-	e) 3.5 x 104 volts a kilovolts
+e) 3.5 x 104 volts a kilovolts
 	
-	![image](https://user-images.githubusercontent.com/84430867/120424749-9b868e80-c332-11eb-9dd4-b39ec342c399.png)
+![image](https://user-images.githubusercontent.com/84430867/120424749-9b868e80-c332-11eb-9dd4-b39ec342c399.png)
 
-	f) 0.000 035 7 amperes a microamperes
+f) 0.000 035 7 amperes a microamperes
 	
-	![image](https://user-images.githubusercontent.com/84430867/120424787-a80ae700-c332-11eb-96c5-b3fe89e95375.png)
+![image](https://user-images.githubusercontent.com/84430867/120424787-a80ae700-c332-11eb-96c5-b3fe89e95375.png)
 
 41.      Determine los valores que se deben insertar en el espacio en blanco
 
