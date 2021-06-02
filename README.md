@@ -335,47 +335,46 @@ b.	Realice la operación directamente en la calculadora sin conversión. ¿Cuál
 	    
 	    ![image](https://user-images.githubusercontent.com/84430867/120425813-814db000-c334-11eb-9ad5-3a9bc6ae49bb.png)
 
-44.- El voltaje de una línea de transmisión de alto voltaje es de 1.15 x 105 V. ¿Cuál es el voltaje en kV?
+44.        El voltaje de una línea de transmisión de alto voltaje es de 1.15 x 105 V. ¿Cuál es el voltaje en kV?
 
 ![image](https://user-images.githubusercontent.com/84430867/120425999-da1d4880-c334-11eb-8a59-9bff5495b1b5.png)
 
 Respuesta: El voltaje de la transmisión es 115kV
                    
-45.- Se compra un radiador eléctrico de 1500 W para calentar una habitación ¿Cuántos kW es esta cantidad?
+45.        Se compra un radiador eléctrico de 1500 W para calentar una habitación ¿Cuántos kW es esta cantidad?
 Respuesta: El radiador eléctrico tiene una potencia de 1,5 kW
 
 ![image](https://user-images.githubusercontent.com/84430867/120426821-68de9500-c336-11eb-856f-c6ede100a135.png)
 
-46.- Considere la figura 1-11. Como aprenderá en el capítulo 6. I_4=I_1+I_2+I_3. Si 
+46.        Considere la figura 1-11. Como aprenderá en el capítulo 6. I_4=I_1+I_2+I_3. Si 
 I1 =1.25 mA, I2 = 350 µA e I3 = 250 x 10-5  A, ¿Cuánto vale I4?
 
 ![image](https://user-images.githubusercontent.com/84430867/120426762-54020180-c336-11eb-8059-bc2e544c0521.png)
 
 Respuesta: I4 tiene un valor de 4.1 x 10-3 A
-47.- Para La figura 1-12 I1 + I2 – I3 + I4 = 0. Si I1 = 12 A, I2 = 0.150 kA e I4 = 250 x 10-1 A. ¿Cuánto vale I3?
+47.         Para La figura 1-12 I1 + I2 – I3 + I4 = 0. Si I1 = 12 A, I2 = 0.150 kA e I4 = 250 x 10-1 A. ¿Cuánto vale I3?
 Respuesta: I3 tiene un valor de 187 A
 
 ![image](https://user-images.githubusercontent.com/84430867/120426691-32087f00-c336-11eb-8609-febeb95e48b4.png)
 
-48.- En cierto circuito electrónico V1 = V2 – V3 – V4. Si V1 = 120mV, V2 = 5000μV y 
+48.        En cierto circuito electrónico V1 = V2 – V3 – V4. Si V1 = 120mV, V2 = 5000μV y 
 V3 = 20 x 10-4 V. ¿Cuánto vale V4?
 
 ![image](https://user-images.githubusercontent.com/84430867/120426660-21f09f80-c336-11eb-95c3-7280c68d2cdd.png)
 
 Respuesta: V4 tiene un valor de -0.117 V
 
-49.-  Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmdf. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿Cuál será el valor equivalente a pF de 39 “micromicrofarads”?
+49.    Al reparar un radio antiguo se encuentra un capacitor defectuoso designado por 39 mmdf. Después de investigar se encuentra que “mmfd” es una unidad obsoleta que significa “micromicrofarads”. Se requiere un capacitor de reemplazo de valor equivalente. Consulte la tabla 1-6, ¿Cuál será el valor equivalente a pF de 39 “micromicrofarads”?
 
 ![image](https://user-images.githubusercontent.com/84430867/120426604-07b6c180-c336-11eb-8807-70b9453c519e.png)
 
-50.-
-	a) Si 0.045 coulomb de carga (pregunta 29) pasan a través de un alambre en 15 ms. ¿a cuántos electrones equivale esto?
+50.     a) Si 0.045 coulomb de carga (pregunta 29) pasan a través de un alambre en 15 ms. ¿a cuántos electrones equivale esto?
 	
-	![image](https://user-images.githubusercontent.com/84430867/120426570-f4a3f180-c335-11eb-93d8-a6b4e9f0c199.png)
+![image](https://user-images.githubusercontent.com/84430867/120426570-f4a3f180-c335-11eb-93d8-a6b4e9f0c199.png)
 
 	b) Con una rapidez de 9.36 x 10-19 electrones por segundo. ¿Cuántos coulombs pasan por un punto de un alambre en 20 μs?
 	
-	![image](https://user-images.githubusercontent.com/84430867/120426508-db9b4080-c335-11eb-9bc9-9b9c9b308332.png)
+![image](https://user-images.githubusercontent.com/84430867/120426508-db9b4080-c335-11eb-9bc9-9b9c9b308332.png)
 
 51.- Una señal de radio viaja a 299 792,458 km/s y una señal telefónica a 150 m/us. Si ambas se originan en el mismo punto, ¿Cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
 	
