@@ -263,7 +263,7 @@ b.	Realice la operación directamente en la calculadora sin conversión. ¿Cuál
 
 ![image](https://user-images.githubusercontent.com/84430867/120423642-68db9680-c330-11eb-8458-73b2d68ad5c2.png)
 
-36.       La fuerza gravitacional entre dos cuerpos es F=6,6726 x 〖10〗^(-11)  (m_1 m_2)/r^2  N, donde las masas m_1  y m_2 están en kilogramos y la distancia r entre los centro gravitacionales está en metros. Si el cuerpo 1 es una esfera con radio de 5000 millas y densidad de 25kg/m^3, y el cuerpo 2 es una esfera de diámetro de 20 000 km y densidad de 12 kg/m^3. ¿Cuál es la fuerza gravitacional entre ellos?  
+36.       La fuerza gravitacional entre dos cuerpos es F=6,6726 x [10]^(-11)  (m_1 m_2)/r^2  N, donde las masas m_1  y m_2 están en kilogramos y la distancia r entre los centro gravitacionales está en metros. Si el cuerpo 1 es una esfera con radio de 5000 millas y densidad de 25kg/m^3, y el cuerpo 2 es una esfera de diámetro de 20 000 km y densidad de 12 kg/m^3. ¿Cuál es la fuerza gravitacional entre ellos?  
 
 ![image](https://user-images.githubusercontent.com/84430867/120423474-1a2dfc80-c330-11eb-8402-f3ab3c98dc57.png)
 
@@ -307,33 +307,33 @@ f) 0.000 035 7 amperes a microamperes
 
 41.      Determine los valores que se deben insertar en el espacio en blanco
 
-         a)  150kV = 150 x 103 V = 0.15 x 106V
+a)  150kV = 150 x 103 V = 0.15 x 106V
 
-         ![image](https://user-images.githubusercontent.com/84430867/120424889-db4d7600-c332-11eb-8f27-8ace9269a09f.png)
+![image](https://user-images.githubusercontent.com/84430867/120424889-db4d7600-c332-11eb-8f27-8ace9269a09f.png)
 
-          b)  330µW = 0.33 x10-3 W = 33 x 10-5 W 
-	  
-	  ![image](https://user-images.githubusercontent.com/84430867/120425345-9d9d1d00-c333-11eb-92a7-7c10de0efb2c.png)
+ b)  330µW = 0.33 x10-3 W = 33 x 10-5 W 
+ 
+![image](https://user-images.githubusercontent.com/84430867/120425345-9d9d1d00-c333-11eb-92a7-7c10de0efb2c.png)
 
 42.       Realice las operaciones y exprese las respuestas en las unidades que se indican
 	  
-	  a) 700 µA – 0.4mA =  300 µA  = 0.3 mA 
+a) 700 µA – 0.4mA =  300 µA  = 0.3 mA 
                         
-	  ![image](https://user-images.githubusercontent.com/84430867/120425584-1a2ffb80-c334-11eb-949f-713e5f6469af.png)
+![image](https://user-images.githubusercontent.com/84430867/120425584-1a2ffb80-c334-11eb-949f-713e5f6469af.png)
 
- 	  b) 600 MW + 300 x 104 W = 603 MW
+b) 600 MW + 300 x 104 W = 603 MW
 	  
-	  ![image](https://user-images.githubusercontent.com/84430867/120425666-3d5aab00-c334-11eb-927b-ed80f37aba98.png)
+![image](https://user-images.githubusercontent.com/84430867/120425666-3d5aab00-c334-11eb-927b-ed80f37aba98.png)
 
 43.        Realice las operaciones y exprese las respuestas en las unidades que se indican
 	   
-	   a)  330V + 0.15 kV + 0.2 x 103 V = 680 V
+a)  330V + 0.15 kV + 0.2 x 103 V = 680 V
 	   
-	   ![image](https://user-images.githubusercontent.com/84430867/120425759-65e2a500-c334-11eb-93f5-a8bd80e8c35c.png)
+![image](https://user-images.githubusercontent.com/84430867/120425759-65e2a500-c334-11eb-93f5-a8bd80e8c35c.png)
 
-            b) 60 W + 100 W +2700 mW = 162.7 W
-	    
-	    ![image](https://user-images.githubusercontent.com/84430867/120425813-814db000-c334-11eb-9ad5-3a9bc6ae49bb.png)
+b) 60 W + 100 W +2700 mW = 162.7 W
+	   
+ ![image](https://user-images.githubusercontent.com/84430867/120425813-814db000-c334-11eb-9ad5-3a9bc6ae49bb.png)
 
 44.        El voltaje de una línea de transmisión de alto voltaje es de 1.15 x 105 V. ¿Cuál es el voltaje en kV?
 
@@ -372,48 +372,51 @@ Respuesta: V4 tiene un valor de -0.117 V
 	
 ![image](https://user-images.githubusercontent.com/84430867/120426570-f4a3f180-c335-11eb-93d8-a6b4e9f0c199.png)
 
-	b) Con una rapidez de 9.36 x 10-19 electrones por segundo. ¿Cuántos coulombs pasan por un punto de un alambre en 20 μs?
+b) Con una rapidez de 9.36 x 10-19 electrones por segundo. ¿Cuántos coulombs pasan por un punto de un alambre en 20 μs?
 	
 ![image](https://user-images.githubusercontent.com/84430867/120426508-db9b4080-c335-11eb-9bc9-9b9c9b308332.png)
 
 51.- Una señal de radio viaja a 299 792,458 km/s y una señal telefónica a 150 m/us. Si ambas se originan en el mismo punto, ¿Cuál llega primero a un destino alejado 5000 km? ¿Cuánto tiempo pasa entre la llegada de una y otra?
 	
-	![image](https://user-images.githubusercontent.com/84430867/120426465-c32b2600-c335-11eb-8d0e-0d8ae910b786.png)
+![image](https://user-images.githubusercontent.com/84430867/120426465-c32b2600-c335-11eb-8d0e-0d8ae910b786.png)
 
-	Señal de radio
+Señal de radio
 	
-	![image](https://user-images.githubusercontent.com/84430867/120426428-b1498300-c335-11eb-93e0-05cb3242b1d7.png)
+![image](https://user-images.githubusercontent.com/84430867/120426428-b1498300-c335-11eb-93e0-05cb3242b1d7.png)
 
-	Señal telefónica
+Señal telefónica
 	
-	![image](https://user-images.githubusercontent.com/84430867/120426400-a68eee00-c335-11eb-85a4-39ffc03b35cd.png)
+![image](https://user-images.githubusercontent.com/84430867/120426400-a68eee00-c335-11eb-85a4-39ffc03b35cd.png)
 
 Respuesta: La señal de radio llega primero con un t = 16.66 ms.
 
 52.- En el capítulo 4 aprenderá que la potencia de cd está dada por el producto del voltaje y la corriente, esto es, P = V x I watts,
-	a) Si V = 50 V e I = 24 mA (ambos valores exactos). ¿Cuánto vale P en watts?
+
+a) Si V = 50 V e I = 24 mA (ambos valores exactos). ¿Cuánto vale P en watts?
 	
-	![image](https://user-images.githubusercontent.com/84430867/120426359-8eb76a00-c335-11eb-9d1f-e09b639679d8.png)
+![image](https://user-images.githubusercontent.com/84430867/120426359-8eb76a00-c335-11eb-9d1f-e09b639679d8.png)
 
-	b) Si el voltaje se mide con un voltímetro como V = 50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I = 24.0 ± 0.1 mA. ¿Qué concluye acerca de P con base en los valores medidos?
+b) Si el voltaje se mide con un voltímetro como V = 50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I = 24.0 ± 0.1 mA. ¿Qué concluye acerca de P con base en los valores medidos?
 
-        P=1.2 ±0.1 W 
+P=1.2 ±0.1 W 
 
 El valor que se obtiene mediante la medición y el resultado obtenido mediante cálculo tiene una incertidumbre de 0.1 por lo tanto podemos asumir que la  potencia varía entre 1.2 y 1.18 W
 
 ![image](https://user-images.githubusercontent.com/84430867/120426283-692a6080-c335-11eb-8b46-cf00bb374832.png)
 
 53.- En el capítulo 4 aprenderá que la resistencia está dada por la razón entre el voltaje y la corriente, es decir, R = V ÷ I ohms.
-	a) Si V = 50 V e I = 24 mA (ambos valores exactos) ¿Cuánto vale R?
-	b) Si el voltaje se mide con un voltímetro como V = 50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I = 24.0 ± 0.1 mA. ¿Qué concluye acerca de R con base en los valores medidos?
+
+a) Si V = 50 V e I = 24 mA (ambos valores exactos) ¿Cuánto vale R?
+
+b) Si el voltaje se mide con un voltímetro como V = 50.0 ± 0.1 volts y la corriente se mide con un amperímetro como I = 24.0 ± 0.1 mA. ¿Qué concluye acerca de R con base en los valores medidos?
 	
 El valor que se obtiene mediante la medición y el resultado obtenido mediante cálculo tiene una incertidumbre de 0.1 por lo tanto el voltaje real de R se encuentra entre  2.08 kΩ y 2.11 kΩ (valor asumido dado por el aparato de medición)
 
 54.- El componente soldado en el circuito impreso de la figura 1-13(a) es un dispositivo electrónico conocido como circuito integrado. Como está indicado en (b), el espacio de centro a centro entre sus terminales es de 0.8 ± 0.1 mm. Los diámetros de las terminales pueden variar de 0.25 mm a 0.45 mm. Considere estas incertidumbres y calcule la distancia mínima y máxima entre las terminales debida a las tolerancias de fabricación.
 
-       a) ![image](https://user-images.githubusercontent.com/84430867/120426186-38e2c200-c335-11eb-94aa-bb1198a45713.png)
+ a) ![image](https://user-images.githubusercontent.com/84430867/120426186-38e2c200-c335-11eb-94aa-bb1198a45713.png)
 
-       b) ![image](https://user-images.githubusercontent.com/84430867/120426195-3ed8a300-c335-11eb-8c7f-e9ea08834c93.png)
+ b) ![image](https://user-images.githubusercontent.com/84430867/120426195-3ed8a300-c335-11eb-8c7f-e9ea08834c93.png)
 
 55.- Considere el diagrama pictográfico de la figura 1-14. Use los símbolos apropiados de la tabla 1-7 para dibujar un diagrama esquemático. Sugerencia: en los siguientes capítulos  hay muchos circuitos esquemáticos que contienen resistores, inductores y capacitores. Utilícelos como ayuda.
 
