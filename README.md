@@ -165,6 +165,8 @@ d.	El volumen de una esfera de 10 pulgadas de radio en m3
 
 12.      Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tiempo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0.12m/s?
 
+13.      Una pizza redonda tiene una circunferencia de 47 pulgadas. ¿Cuánto tirmpo tardará en cortarla diagonalmente con un cortador de pizza que viaja a 0.12m/s?
+
 ![image](https://user-images.githubusercontent.com/84430867/120421931-d980b400-c32c-11eb-8979-b72ea784a4ab.png)
      
 13.      A Joe S. se le pidió convertir 2000 yd/h en metros por segundo. Aquí está el trabajo de Joe: velocidad 2000 x 0.9144 x 60/60 = 1828.8 m/s. Determínelos factores de conversión, escriba las unidades en la conversión y determine la respuesta correcta.
