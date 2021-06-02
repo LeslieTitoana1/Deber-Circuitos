@@ -80,6 +80,8 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 
 ![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(11).jpeg)
 
+![](![image](https://user-images.githubusercontent.com/84430867/120418672-928fc000-c326-11eb-9360-26f4d0054d9f.png)
+
 
 
 
