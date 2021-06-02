@@ -492,6 +492,57 @@ b) Q1 = 8 μC y Q2 = -4 μC, separados 12 cm
 
 ![image](https://user-images.githubusercontent.com/84587293/120525278-94e13100-c39d-11eb-890f-3f4128efec65.png)
 
+c) Dos electrones separados 12 x 10-8 m
+
+![image](https://user-images.githubusercontent.com/84587293/120525618-eee1f680-c39d-11eb-8323-f960a1383255.png)
+
+d) Un electrón y un protón  separados 5.3 x 10-11 m
+
+![image](https://user-images.githubusercontent.com/84587293/120525676-04572080-c39e-11eb-93b2-75f2ff6ff9f4.png)
+
+e) Un electrón y un neutrón  separados 5.7 x 10-11 m
+
+![image](https://user-images.githubusercontent.com/84587293/120525736-13d66980-c39e-11eb-996c-522412f8dd3c.png)
+
+Ya que el neutrón no tiene carga
+
+8.    ¿Qué significado tiene decir que un cuerpo esta “cargado”?
+
+Un cuerpo se encuentra cargado cuando ha perdido o ganado electrones, de manera que algunos átomos ya no tienen el mismo número de electrones que de protones y por tanto se denominan iones. Un átomo se cargará positivamente (catión) si pierde electrones y se cargará negativamente (anión) si gana electrones
+
+9.     La fuerza entre dos cargas una positiva y una negativa separadas 2 cm es de 180N. Si Q1 = 4 μC, ¿Cuánto vale Q2? ¿La fuerza es de atracción o de repulsión?
+
+![image](https://user-images.githubusercontent.com/84587293/120525922-48e2bc00-c39e-11eb-8c25-a37727b80214.png)
+
+10.    Si se pudiera colocar una carga de 1 C en cada uno de dos cuerpos que están separados 25 cm de centro a centro ¿Cuál sería la fuerza entre ellas en Newtons?, ¿y en toneladas?
+
+![image](https://user-images.githubusercontent.com/84587293/120526081-6f085c00-c39e-11eb-8005-2c71edb87dcb.png)
+
+11.    La fuerza de repulsión entre dos cargas separadas 50 cm es de 0.02 N. Si Q2 = 5 Q1 determine las cargas y su posible signo
+
+![image](https://user-images.githubusercontent.com/84587293/120526292-a840cc00-c39e-11eb-9b08-e7551a2a22d2.png)
+
+12.    ¿Cuántos electrones representa una carga de 1.63 μC?
+
+![image](https://user-images.githubusercontent.com/84587293/120526374-bf7fb980-c39e-11eb-9fb9-70f300b68a57.png)
+
+13.    Determinar la carga en 19×〖10〗^13 electrones 
+
+![image](https://user-images.githubusercontent.com/84587293/120526431-d0302f80-c39e-11eb-9838-b68e2496ca4d.png)
+
+14.    Una placa de metal eléctricamente neutra adquiere una carga negativa de 47µC ¿Cuántos electrones se le agregaron? 
+
+Está cargado negativamente ya que tienes más electrones que protones, con un resultado de -47µC electrones 
+
+15.    A una placa de metal se le han adicionado 14.6×〖10〗^13electrones y posteriormente se le agrega una carga de 1.3 µC. Si la carga final en la placa es de 5.6µC ¿Cuál fue la carga inicial?
+
+![image](https://user-images.githubusercontent.com/84587293/120526547-e9d17700-c39e-11eb-8056-2b6d4a834521.png)
+
+Se le agrega una carga entonces =23.4µC-1.3µC=22.1µC
+
+Si la carga final de la placa es 5.6µC   =5.6µC+22.1 µC 
+
+La carga inicial Q_inicial=27.7 µC 
 
 
 
