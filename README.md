@@ -431,3 +431,35 @@ El valor que se obtiene mediante la medición y el resultado obtenido mediante c
 ![image](https://user-images.githubusercontent.com/84430867/120427207-1f427a00-c337-11eb-97d6-309b92f47677.png)
 
 * Problemas Capitulo  2
+
+¿Cuántos electrones libres a temperatura ambiente hay en los siguientes elementos?
+
+a) 1 metro cúbico de cobre 
+
+![image](https://user-images.githubusercontent.com/84587293/120520630-a32d4e00-c399-11eb-8f3d-27a28ca3f736.png)
+
+b) Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
+Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿Cómo se ve afectada la fuerza entre sí?
+
+![image](https://user-images.githubusercontent.com/84587293/120520871-f0a9bb00-c399-11eb-85cf-995c749676af.png)
+
+a) se duplica la magnitud de ambas cargas
+La fuerza que actúa entre ellas será 9 veces menor
+3.      Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ellas se reduce a la mitad ¿Cómo se ve afectada la fuerza?
+La fuerza será 24 veces mayor a la original 
+
+4.       Cierto material  tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
+El mejor conductor será el elemento que tiene  1 electrón en su capa de valencia ya que tiene mayor número de electrones libres.
+5.        a) ¿Qué hace que un material sea buen conductor? (En su respuesta considere las capas de valencia y lo electrones libre)
+Los materiales conductores con aquellos que permiten el paso de la corriente. Tienen gran número de electrones libres y se caracterizan por poseer de uno a tres electrones de valencia en su estructura. 
+b) Además de ser buen conductor, mencione otras dos razones por las que es ampliamente usado
+Por lo general la mayoría de metales son buenos conductores siendo la plata y el oro los mejores conductores sin embargo el mas utilizado es el cobre ya que es buen conductor y su precio es más accesible.
+c) ¿Qué hace que un material sea buen aislante?
+Los materiales aislantes tienen pocos electrones libres en su estructura y se caracterizan por poseer más de cuatro electrones en su capa de valencia o en ocasiones la capa de valencia está llena.
+6.      a) Aunque el oro es muy caro en ocasiones se usa en electrónica como recubrimiento en contacto ¿Porque?
+El oro es el material preferido sobre otros debido a su altísima resistencia a la corrosión, su ductilidad o capacidad de deformarse sin romperse, su baja resistencia eléctrica y su elevada conductividad térmica.
+b) ¿Porque algunas veces se usa al aluminio cuando su conductividad es solo 60% de la del cobre?
+El aluminio es usado ya que posee un menor peso respecto a cobre 
+7.      Calcule la fuerza eléctrica entre las siguientes cargas y establezca cuando es de atracción y cuando de repulsión
+a) Una carga de +1 μC y una carga de +7 μC, separadas 10mm 
+
