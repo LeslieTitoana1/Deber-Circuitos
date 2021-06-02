@@ -88,3 +88,30 @@ a.	27 minutos a segundos
 
 ![image](https://user-images.githubusercontent.com/84430867/120418976-1f3a7e00-c327-11eb-8493-cbecefd33957.png)
 
+b.	0.8 horas a segundos
+
+![image](https://user-images.githubusercontent.com/84430867/120419455-1e561c00-c328-11eb-809f-927f683011bc.png)
+
+c.	2h 3min 47s a s
+
+![image](https://user-images.githubusercontent.com/84430867/120419468-2b730b00-c328-11eb-9a0f-aa7201a75989.png)
+
+d.	35 caballos de potencia a watts
+
+![image](https://user-images.githubusercontent.com/84430867/120419501-3b8aea80-c328-11eb-8832-0dbfa4cc4112.png)
+
+e.	1827W a hp
+
+![image](https://user-images.githubusercontent.com/84430867/120419553-54939b80-c328-11eb-88dd-7862bb29c012.png)
+
+f.	23 revoluciones a grados
+
+![image](https://user-images.githubusercontent.com/84430867/120419599-637a4e00-c328-11eb-878b-e236637621f9.png)
+
+2.	Realice las siguientes conversiones:
+	
+a.	27 pies a metros
+
+![image](https://user-images.githubusercontent.com/84430867/120419671-7bea6880-c328-11eb-877d-9142d1c2fcac.png)
+
+
