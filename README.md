@@ -80,11 +80,6 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 
 ![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.10.12%20(11).jpeg)
 
-1.	Realice las siguientes conversiones:
-
-a.	27 minutos a segundos
-
-![](BIN +4.38 KB WhatsApp Image 2021-06-01 at 21.15.46.jpeg )
 
 
 
