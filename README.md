@@ -534,7 +534,7 @@ Un cuerpo se encuentra cargado cuando ha perdido o ganado electrones, de manera 
 
 Está cargado negativamente ya que tienes más electrones que protones, con un resultado de -47µC electrones 
 
-15.      A una placa de metal se le han adicionado 14.6×〖10〗^13electrones y posteriormente se le agrega una carga de 1.3 µC. Si la carga final en la placa es de 5.6µC ¿Cuál fue la carga inicial?
+15.      A una placa de metal se le han adicionado 14.6× [10]^13electrones y posteriormente se le agrega una carga de 1.3 µC. Si la carga final en la placa es de 5.6µC ¿Cuál fue la carga inicial?
 
 ![image](https://user-images.githubusercontent.com/84587293/120526547-e9d17700-c39e-11eb-8056-2b6d4a834521.png)
 
@@ -692,7 +692,7 @@ El tiempo de vida es de 525 ,125  y 57
 
 No hay ningún error.
 
-45.       ¿Cuál es el error con el esquema de medición que se muestra en la ﬁgura2-36? Corríjalo.
+45.       ¿Cuál es el error con el esquema de medición que se muestra en la ﬁgura 2-36? Corríjalo.
 
 ![image](https://user-images.githubusercontent.com/84587293/120532888-c958eb00-c3a5-11eb-9f07-215dc82f2bc2.png)
 
@@ -708,7 +708,8 @@ El interruptor  es de un solo polo y un solo tiro (SPST, por sus siglas en ingl�
 
 Si se excede la especificación de voltaje del fusible se puede producir un arco cuando se funde.
 
-Conclusiones
+**4. VIDEO**
+**5. CONCLUSIONES**
 
 En este informe  hemos tratado de analizar los conceptos de lo que significa circuito eléctrico, sobre cómo funciona este y cada una de sus partes logrando así comprender  que un Circuito Eléctrico es un conjunto de elementos conectados entre sí por los que puede circular una corriente eléctrica.
 
@@ -721,3 +722,5 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 •Cuando una corriente es alterna o continua.
 
 •Comprender su uso y su importancia.	
+
+**6. BIBLIOGRAFÍAS**
