@@ -439,13 +439,18 @@ a) 1 metro cúbico de cobre
 ![image](https://user-images.githubusercontent.com/84587293/120520630-a32d4e00-c399-11eb-8f3d-27a28ca3f736.png)
 
 b) Un alambre de cobre de 5 metros de longitud cuyo diámetro es 0.163 cm
-Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿Cómo se ve afectada la fuerza entre sí?
 
 ![image](https://user-images.githubusercontent.com/84587293/120520871-f0a9bb00-c399-11eb-85cf-995c749676af.png)
 
 a) se duplica la magnitud de ambas cargas
+
+Dos cargas están separadas por cierta distancia, como en la figura 2-31, ¿Cómo se ve afectada la fuerza entre sí?
+
+![image](https://user-images.githubusercontent.com/84587293/120521898-a83ecd00-c39a-11eb-91c6-39ff6a84bb62.png)
+
 La fuerza que actúa entre ellas será 9 veces menor
 3.      Dos cargas están separadas por cierta distancia. Si la magnitud de una carga se duplica y la otra se triplica y la distancia entre ellas se reduce a la mitad ¿Cómo se ve afectada la fuerza?
+4.      
 La fuerza será 24 veces mayor a la original 
 
 4.       Cierto material  tiene 4 electrones en su capa de valencia y un segundo material tiene 1. ¿Cuál es mejor conductor?
