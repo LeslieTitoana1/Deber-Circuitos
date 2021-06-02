@@ -526,15 +526,15 @@ Un cuerpo se encuentra cargado cuando ha perdido o ganado electrones, de manera 
 
 ![image](https://user-images.githubusercontent.com/84587293/120526374-bf7fb980-c39e-11eb-9fb9-70f300b68a57.png)
 
-13.    Determinar la carga en 19×〖10〗^13 electrones 
+13.     Determinar la carga en 19×〖10〗^13 electrones 
 
 ![image](https://user-images.githubusercontent.com/84587293/120526431-d0302f80-c39e-11eb-9838-b68e2496ca4d.png)
 
-14.    Una placa de metal eléctricamente neutra adquiere una carga negativa de 47µC ¿Cuántos electrones se le agregaron? 
+14.      Una placa de metal eléctricamente neutra adquiere una carga negativa de 47µC ¿Cuántos electrones se le agregaron? 
 
 Está cargado negativamente ya que tienes más electrones que protones, con un resultado de -47µC electrones 
 
-15.    A una placa de metal se le han adicionado 14.6×〖10〗^13electrones y posteriormente se le agrega una carga de 1.3 µC. Si la carga final en la placa es de 5.6µC ¿Cuál fue la carga inicial?
+15.      A una placa de metal se le han adicionado 14.6×〖10〗^13electrones y posteriormente se le agrega una carga de 1.3 µC. Si la carga final en la placa es de 5.6µC ¿Cuál fue la carga inicial?
 
 ![image](https://user-images.githubusercontent.com/84587293/120526547-e9d17700-c39e-11eb-8056-2b6d4a834521.png)
 
@@ -543,6 +543,56 @@ Se le agrega una carga entonces =23.4µC-1.3µC=22.1µC
 Si la carga final de la placa es 5.6µC   =5.6µC+22.1 µC 
 
 La carga inicial Q_inicial=27.7 µC 
+
+16.      Al deslizar una silla y tocar algún objeto puede provocar un choque eléctrico. Expliqué porqué
+
+Cuando las cargas son separadas de un cuerpo y transferidas a otro, resulta una diferencia de potencial o voltaje entre ellas.
+
+A este fenómeno se llama electricidad estática y no es más que la descarga repentina de la electricidad que acumulamos las personas y los objetos. Sucede con mayor frecuencia en la ropa y las alfombras sintéticas, y en los carros que al circular producen fricción con el aire.  
+
+17.      Si se requiere 360 joules de energía para transferir 15 C de carga a través de la lámpara de la figura 2-1, ¿Cuál es el voltaje de la batería?
+
+![image](https://user-images.githubusercontent.com/84587293/120526880-564c7600-c39f-11eb-8bb6-3cdc18c517bf.png)
+
+18.      Si se requiere de 600 J de energía para mover 9.36x〖10〗^19de un punto a otro, ¿cuál es la diferencia de potencial entre los dos puntos?
+
+![image](https://user-images.githubusercontent.com/84587293/120526973-6f552700-c39f-11eb-9fe7-6e0f1355d44b.png)
+
+Diferencia de potencial es igual a V=40  [V]   
+
+19.      Si se requiere de 1.2 kJ de energía para mover 500 mC de un punto a otro, ¿Cuál es el voltaje entre los dos puntos?
+
+![image](https://user-images.githubusercontent.com/84587293/120527144-9ca1d500-c39f-11eb-9c3e-ba23ced752bc.png)
+
+20.      ¿Cuánta energía se requiere para mover 20 mC de carga a través de la lámpara de la figura 2-23?
+
+![image](https://user-images.githubusercontent.com/84587293/120527232-b80ce000-c39f-11eb-9f25-c863bdff8f28.png)
+
+![image](https://user-images.githubusercontent.com/84587293/120527266-c1964800-c39f-11eb-833e-fa7996eafafc.png)
+
+21.      ¿Cuánta energía adquiere una carga de  0.5 µC conforme se mueve a través de una diferencia de potencial de 8.5 kV?
+
+![image](https://user-images.githubusercontent.com/84587293/120527367-df63ad00-c39f-11eb-9a46-a81f1c9b8605.png)
+
+22.      Si el voltaje entre dos puntos es de 100 V, ¿Cuántas energía se requiere para mover un electrón entre los dos puntos?
+
+![image](https://user-images.githubusercontent.com/84587293/120527517-08843d80-c3a0-11eb-8464-2bef14fdab33.png)
+
+23.      Dado un voltaje 12V para la batería de la figura 2-1, ¿cuánta carga se mueve a través de la lámpara si se requieren 57J de energía para moverla?
+
+![image](https://user-images.githubusercontent.com/84587293/120527604-22258500-c3a0-11eb-8e88-3cc4114e5542.png)
+
+24.     Para el circuito de la figura 2-1, si 27 C pasan a través de la lámpara en 9 segundos, ¿Cuál es la corriente en amperes? 
+
+![image](https://user-images.githubusercontent.com/84587293/120527736-4f723300-c3a0-11eb-8578-f15346172f59.png)
+
+25.     Si 250 µC pasan a través del amperímetro de la figura 2-32 en 5ms, ¿cuál será la lectura del medidor?
+
+![image](https://user-images.githubusercontent.com/84587293/120527857-73357900-c3a0-11eb-9f4f-efdae2d97ecd.png)
+
+26.     Si la corriente I=4 A en la figura 2-1, ¿cuántos coulombs pasan a través de la lámpara en 7 ms?
+
+![image](https://user-images.githubusercontent.com/84587293/120528201-c9a2b780-c3a0-11eb-8a2b-c775f6c10b38.png)
 
 
 
