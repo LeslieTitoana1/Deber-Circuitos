@@ -33,7 +33,7 @@ Ing. Darwin Omar Alulema Flores
 •	Describir cómo una batería “crea” voltaje.
 
 
-**2. MARCO TEORICO**
+# **2. MARCO TEORICO**
 
 
 *  CAPITULO 1
@@ -66,7 +66,7 @@ Ing. Darwin Omar Alulema Flores
 ![](https://github.com/LeslieTitoana1/Deber-Circuitos/blob/main/WhatsApp%20Image%202021-06-01%20at%2017.11.06%20(3).jpeg)
 
 
-**3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
+# **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 * Problemas Capitulo  1
 
@@ -725,11 +725,11 @@ El interruptor  es de un solo polo y un solo tiro (SPST, por sus siglas en ingl�
 
 Si se excede la especificación de voltaje del fusible se puede producir un arco cuando se funde.
 
-**4. VIDEO**
+# **4. VIDEO**
 
 https://www.youtube.com/watch?v=V5YETYUDYVk&feature=youtu.be
 
-**5. CONCLUSIONES**
+# **5. CONCLUSIONES**
 
 En este informe  hemos tratado de analizar los conceptos de lo que significa circuito eléctrico, sobre cómo funciona este y cada una de sus partes logrando así comprender  que un Circuito Eléctrico es un conjunto de elementos conectados entre sí por los que puede circular una corriente eléctrica.
 
@@ -743,7 +743,7 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 
 •Comprender su uso y su importancia.	
 
-**6. BIBLIOGRAFÍAS**
+# **6. BIBLIOGRAFÍAS**
 
 Allan Robbins, W. C. (s.f.). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed.)
 
