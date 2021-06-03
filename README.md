@@ -681,7 +681,7 @@ El tiempo de vida es de 525 ,125  y 57
 
 39. La batería de la ﬁgura 2-15 está especiﬁcada en 81 Ah a 5°C. ¿Cuál es el tiempo de vida esperado (en horas) con un consumo de corriente de 5 A a -15°C?
 
-![image](https://user-images.githubusercontent.com/84587293/120532198-0d97bb80-c3a5-11eb-9c6f-393115989a03.png)
+![image](https://user-images.githubusercontent.com/84587293/120592031-c04a3700-c402-11eb-9afc-094774d20b81.png)
 
 40. Se espera que la batería de la ﬁgura 2-15 dure 17 h con un consumo de corriente de 1.5 A a 25°C. ¿Cuánto tiempo espera que dure a 5°C con un consumo de corriente de 0.8 A?
 
