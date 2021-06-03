@@ -22,7 +22,7 @@ Ing. Darwin Omar Alulema Flores
 
 # CAPITULO I Y II 
 
-**1.OBJETIVOS**
+# **1.OBJETIVOS**
 
 •	Este informe  se realizó con el fin de adquirir nuevos conocimientos  relacionados con los circuitos eléctricos, obteniendo como resultado nuevos entendimientos  sobre la estructura atómica, voltaje, corriente u otros componentes que conforma un circuito eléctrico
 
