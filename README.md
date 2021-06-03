@@ -2,22 +2,22 @@
 
 AUTORES
 
-Leslie Titoaña
+Coba Flores Víctor Steve
 
-Andrea Quichimbo
+Quichimbo Simba Andrea Estefania
 
-Victor Coba
+Titoaña Tigse Leslie Brigitte
 
 **1.OBJETIVOS**
 
-Este informe  se realizó con el fin de adquirir nuevos conocimientos  relacionados con los circuitos eléctricos, obteniendo como resultado nuevos entendimientos  sobre la estructura atómica, voltaje, corriente u otros componentes que conforma un circuito eléctrico
-Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos más               importantes del circuito eléctrico como:
+•	Este informe  se realizó con el fin de adquirir nuevos conocimientos  relacionados con los circuitos eléctricos, obteniendo como resultado nuevos entendimientos  sobre la estructura atómica, voltaje, corriente u otros componentes que conforma un circuito eléctrico
 
-•	Identificar para que sirve cada parte y cada elemento de un circuito eléctrico
+•	Comprender  como  está conformado un circuito eléctrico y la función que tiene cada una de sus partes, describir cómo medir la voltaje y la corriente. 
 
-•	Cuando una corriente es alterna o continua.
+•	Demostrar el procedimiento para usar un óhmetro con el fin de determinar la continuidad de un circuito y medir la resistencia tanto un componente aislado como del que está localizando en un circuito.
 
-•	Comprender su uso e importancia
+•	Describir cómo una batería “crea” voltaje.
+
 
 **2. MARCO TEORICO**
 
@@ -712,6 +712,7 @@ El interruptor  es de un solo polo y un solo tiro (SPST, por sus siglas en ingl�
 Si se excede la especificación de voltaje del fusible se puede producir un arco cuando se funde.
 
 **4. VIDEO**
+
 **5. CONCLUSIONES**
 
 En este informe  hemos tratado de analizar los conceptos de lo que significa circuito eléctrico, sobre cómo funciona este y cada una de sus partes logrando así comprender  que un Circuito Eléctrico es un conjunto de elementos conectados entre sí por los que puede circular una corriente eléctrica.
@@ -727,3 +728,13 @@ Al desarrollar el capítulo  I  y II logramos entender y aprender los puntos má
 •Comprender su uso y su importancia.	
 
 **6. BIBLIOGRAFÍAS**
+
+Allan Robbins, W. C. (s.f.). Análisis de Circuitos: Teoría Y Práctica (Cuarta ed.). (2. Cengage Learning Latin America, Ed.)
+
+hiru.eus. (27 de Enero de 2009). hiru.eus. Obtenido de https://www.hiru.eus/es/quimica/teorias-atomicas
+
+Raffino., M. E. (03 de Junio de 2021). Concepto.ed. Obtenido de https://concepto.de/voltaje/
+
+Zúñiga, P. (15 de Enero de 2010). Instalaciones Eléctricas Residenciales. Obtenido de https://instalacioneselctricasresidenciales.blogspot.com/2010/01/fusibles-e-interruptores-automaticos.html
+
+
