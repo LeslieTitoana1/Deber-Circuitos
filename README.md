@@ -14,6 +14,10 @@ Titoaña Tigse Leslie Brigitte
 
 NRC:5418
 
+INGENIERO
+
+Ing. Darwin Omar Alulema Flores
+
 # INFORME DE LA TAREA Nº 1
 
 # CAPITULO I Y II 
