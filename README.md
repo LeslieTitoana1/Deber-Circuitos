@@ -713,6 +713,8 @@ Si se excede la especificación de voltaje del fusible se puede producir un arco
 
 **4. VIDEO**
 
+https://www.youtube.com/watch?v=V5YETYUDYVk&feature=youtu.be
+
 **5. CONCLUSIONES**
 
 En este informe  hemos tratado de analizar los conceptos de lo que significa circuito eléctrico, sobre cómo funciona este y cada una de sus partes logrando así comprender  que un Circuito Eléctrico es un conjunto de elementos conectados entre sí por los que puede circular una corriente eléctrica.
