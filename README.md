@@ -364,7 +364,7 @@ I1 =1.25 mA, I2 = 350 µA e I3 = 250 x 10-5  A, ¿Cuánto vale I4?
 
 Respuesta: I4 tiene un valor de 4.1 x 10-3 A
 
-47.         Para La figura 1-12 I1 + I2 – I3 + I4 = 0. Si I1 = 12 A, I2 = 0.150 kA e I4 = 250 x 10-1 A. ¿Cuánto vale I3?
+47. Para La figura 1-12 I1 + I2 – I3 + I4 = 0. Si I1 = 12 A, I2 = 0.150 kA e I4 = 250 x 10-1 A. ¿Cuánto vale I3?
 
 ![image](https://user-images.githubusercontent.com/84430867/120426691-32087f00-c336-11eb-8609-febeb95e48b4.png)
 
